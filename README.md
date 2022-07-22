@@ -46,12 +46,19 @@ The table below summarizes all the available datasets and corresponding ground t
     <td>232</td>
     <td>2,273</td>
     <td>87</td>
-    <td>1026</td>
+    <td>1,026</td>
     <td><a href="http://bit.ly/monitor_data" target="_blank">Download (3.7 MB)</a></td>
   </tr>
   <tr>
     <td>Notebook</td>
-    <td colspan="8">Hidden until the end of the <a href="https://dbgroup.ing.unimo.it/sigmod21contest/index.shtml">Sigmod 2021 Programming Contest</a></td>
+    <td>27</td>
+    <td>23,167</td>
+    <td>3,099</td>
+    <td>208</td>
+    <td>1,143</td>
+    <td>44</td>
+    <td>960</td>
+    <td><a href="https://bit.ly/notebook_data_" target="_blank">Download (7.5 MB)</a></td>
   </tr>
 </tbody>
 </table>
