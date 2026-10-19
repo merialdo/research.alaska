@@ -36,7 +36,7 @@ The table below summarizes all the available datasets and corresponding ground t
     <td>3,865</td>
     <td>56</td>
     <td>687</td>
-    <td><a href="https://github.com/merialdo/research.alaska/blob/main/camera.tar.gz" target="_blank">Download (8.6 MB)</a></td>
+    <td><a href="https://github.com/merialdo/research.alaska/raw/main/camera.tar.gz" target="_blank">Download (8.6 MB)</a></td>
   </tr>
   <tr>
     <td>Monitor</td>
@@ -47,7 +47,7 @@ The table below summarizes all the available datasets and corresponding ground t
     <td>2,273</td>
     <td>87</td>
     <td>1,026</td>
-    <td><a href="https://github.com/merialdo/research.alaska/blob/main/monitor.tar.gz" target="_blank">Download (3.7 MB)</a></td>
+    <td><a href="https://github.com/merialdo/research.alaska/raw/main/monitor.tar.gz" target="_blank">Download (3.7 MB)</a></td>
   </tr>
   <tr>
     <td>Notebook</td>
@@ -58,7 +58,7 @@ The table below summarizes all the available datasets and corresponding ground t
     <td>1,143</td>
     <td>44</td>
     <td>960</td>
-    <td><a href="https://github.com/merialdo/research.alaska/blob/main/notebook.tar.gz" target="_blank">Download (7.5 MB)</a></td>
+    <td><a href="https://github.com/merialdo/research.alaska/raw/main/notebook.tar.gz" target="_blank">Download (7.5 MB)</a></td>
   </tr>
 </tbody>
 </table>
